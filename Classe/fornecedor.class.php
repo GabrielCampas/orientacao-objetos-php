@@ -23,5 +23,6 @@
         public function getEmail(){
             return $this->email;
         }
+        
     }
 ?>
